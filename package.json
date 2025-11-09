@@ -1,0 +1,23 @@
+{
+  "name": "dorker",
+  "version": "1.0.0",
+  "description": "Automate Dorking With Puppeteer",
+  "bin": {
+    "dorker": "./dorker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadicalEds/Dorker.git"
+  },
+  "keywords": ["enumeration"],
+  "author": "RadicalEd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadicalEds/Dorker/issues"
+  },
+  "homepage": "https://github.com/RadicalEds/Dorker#readme",
+  "dependencies": {
+    "puppeteer": "^24.29.1",
+    "yargs": "^18.0.0"
+  }
+}
